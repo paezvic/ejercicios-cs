@@ -1,0 +1,15 @@
+C:\Users\Victor Galeon\Desktop\ejercicios_c#\operadores\utilizarVariables\bin\Debug\net6.0\utilizarVariables.exe
+C:\Users\Victor Galeon\Desktop\ejercicios_c#\operadores\utilizarVariables\bin\Debug\net6.0\utilizarVariables.deps.json
+C:\Users\Victor Galeon\Desktop\ejercicios_c#\operadores\utilizarVariables\bin\Debug\net6.0\utilizarVariables.runtimeconfig.json
+C:\Users\Victor Galeon\Desktop\ejercicios_c#\operadores\utilizarVariables\bin\Debug\net6.0\utilizarVariables.dll
+C:\Users\Victor Galeon\Desktop\ejercicios_c#\operadores\utilizarVariables\bin\Debug\net6.0\utilizarVariables.pdb
+C:\Users\Victor Galeon\Desktop\ejercicios_c#\operadores\utilizarVariables\obj\Debug\net6.0\utilizarVariables.csproj.AssemblyReference.cache
+C:\Users\Victor Galeon\Desktop\ejercicios_c#\operadores\utilizarVariables\obj\Debug\net6.0\utilizarVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Galeon\Desktop\ejercicios_c#\operadores\utilizarVariables\obj\Debug\net6.0\utilizarVariables.AssemblyInfoInputs.cache
+C:\Users\Victor Galeon\Desktop\ejercicios_c#\operadores\utilizarVariables\obj\Debug\net6.0\utilizarVariables.AssemblyInfo.cs
+C:\Users\Victor Galeon\Desktop\ejercicios_c#\operadores\utilizarVariables\obj\Debug\net6.0\utilizarVariables.csproj.CoreCompileInputs.cache
+C:\Users\Victor Galeon\Desktop\ejercicios_c#\operadores\utilizarVariables\obj\Debug\net6.0\utilizarVariables.dll
+C:\Users\Victor Galeon\Desktop\ejercicios_c#\operadores\utilizarVariables\obj\Debug\net6.0\refint\utilizarVariables.dll
+C:\Users\Victor Galeon\Desktop\ejercicios_c#\operadores\utilizarVariables\obj\Debug\net6.0\utilizarVariables.pdb
+C:\Users\Victor Galeon\Desktop\ejercicios_c#\operadores\utilizarVariables\obj\Debug\net6.0\utilizarVariables.genruntimeconfig.cache
+C:\Users\Victor Galeon\Desktop\ejercicios_c#\operadores\utilizarVariables\obj\Debug\net6.0\ref\utilizarVariables.dll

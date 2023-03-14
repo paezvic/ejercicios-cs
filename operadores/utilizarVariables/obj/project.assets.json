@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victor Galeon\\Desktop\\ejercicios_c#\\ejercicio1-2\\ejercicio1-2\\ejercicio1-2.csproj",
-      "projectName": "ejercicio1-2",
-      "projectPath": "C:\\Users\\Victor Galeon\\Desktop\\ejercicios_c#\\ejercicio1-2\\ejercicio1-2\\ejercicio1-2.csproj",
+      "projectUniqueName": "C:\\Users\\Victor Galeon\\Desktop\\ejercicios_c#\\operadores\\utilizarVariables\\utilizarVariables.csproj",
+      "projectName": "utilizarVariables",
+      "projectPath": "C:\\Users\\Victor Galeon\\Desktop\\ejercicios_c#\\operadores\\utilizarVariables\\utilizarVariables.csproj",
       "packagesPath": "C:\\Users\\Victor Galeon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victor Galeon\\Desktop\\ejercicios_c#\\ejercicio1-2\\ejercicio1-2\\obj\\",
+      "outputPath": "C:\\Users\\Victor Galeon\\Desktop\\ejercicios_c#\\operadores\\utilizarVariables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Victor Galeon\\AppData\\Roaming\\NuGet\\NuGet.Config"

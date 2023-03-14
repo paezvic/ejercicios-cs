@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operadores", "operadores\operadores.csproj", "{5FBB1FA1-3D5A-4220-98DE-30D845C5941A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "utilizarVariables", "utilizarVariables\utilizarVariables.csproj", "{4FE62722-B1B6-4E69-AAED-F744F2E7CF1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FBB1FA1-3D5A-4220-98DE-30D845C5941A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FBB1FA1-3D5A-4220-98DE-30D845C5941A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FBB1FA1-3D5A-4220-98DE-30D845C5941A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FBB1FA1-3D5A-4220-98DE-30D845C5941A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE62722-B1B6-4E69-AAED-F744F2E7CF1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE62722-B1B6-4E69-AAED-F744F2E7CF1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE62722-B1B6-4E69-AAED-F744F2E7CF1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE62722-B1B6-4E69-AAED-F744F2E7CF1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

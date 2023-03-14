@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor Galeon\\Desktop\\ejercicios_c#\\ejercicio1-2\\ejercicio1-2\\ejercicio1-2.csproj": {}
+    "C:\\Users\\Victor Galeon\\Desktop\\ejercicios_c#\\operadores\\operadores\\operadores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor Galeon\\Desktop\\ejercicios_c#\\ejercicio1-2\\ejercicio1-2\\ejercicio1-2.csproj": {
+    "C:\\Users\\Victor Galeon\\Desktop\\ejercicios_c#\\operadores\\operadores\\operadores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor Galeon\\Desktop\\ejercicios_c#\\ejercicio1-2\\ejercicio1-2\\ejercicio1-2.csproj",
-        "projectName": "ejercicio1-2",
-        "projectPath": "C:\\Users\\Victor Galeon\\Desktop\\ejercicios_c#\\ejercicio1-2\\ejercicio1-2\\ejercicio1-2.csproj",
+        "projectUniqueName": "C:\\Users\\Victor Galeon\\Desktop\\ejercicios_c#\\operadores\\operadores\\operadores.csproj",
+        "projectName": "operadores",
+        "projectPath": "C:\\Users\\Victor Galeon\\Desktop\\ejercicios_c#\\operadores\\operadores\\operadores.csproj",
         "packagesPath": "C:\\Users\\Victor Galeon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor Galeon\\Desktop\\ejercicios_c#\\ejercicio1-2\\ejercicio1-2\\obj\\",
+        "outputPath": "C:\\Users\\Victor Galeon\\Desktop\\ejercicios_c#\\operadores\\operadores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victor Galeon\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
